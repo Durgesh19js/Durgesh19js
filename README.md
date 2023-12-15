@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   </a>
   <!-- Email Icon -->
   <a href="mailto:durgeshsonawane19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
   <!-- GitHub Icon -->
   <a href="https://github.com/Durgesh19js">
