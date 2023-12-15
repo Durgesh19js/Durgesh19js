@@ -25,7 +25,7 @@
 <h2 align="center">:trophy: Legendary Exploits</h2>
 <p align="center">
   <a href="https://www.codechef.com/learn/challenges">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Top+5+in+Codechef+Learning+Program+2022+(Inter+College);&center=true&width=550&height=40">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Top+5+in+Codechef+Learning+Program+2022;&center=true&width=550&height=40">
   </a>
 </p>
 
