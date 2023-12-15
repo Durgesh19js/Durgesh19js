@@ -53,3 +53,15 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=30&logoHeight=30">
   </a>
 </div>
+
+<h2 align="center">💻: Skills </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%20🚀%20-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%20🐍%20-306998?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/OOPs-%20💡%20-3498DB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Data%20Structure-%20🌐%20-2C3E50?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-%20🌐%20-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-%20🎨%20-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%20👾%20-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
